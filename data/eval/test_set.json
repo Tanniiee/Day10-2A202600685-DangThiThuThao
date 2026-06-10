@@ -1,0 +1,218 @@
+[
+  {
+    "id": "q000",
+    "question_type": "summary",
+    "question": "What is the paper 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation' about?",
+    "ground_truth": "Abstract Large language models (LLMs) increasingly support reasoning, question answering, decision support, and retrieval-augmented knowledge work. High benchmark performance, however, does not by itself establish reliability under realistic deployment conditions. This article treats LLM reliability as a pipeline-level evaluation construct rather than a single capability score. Using a semi-systematic evidence-map design, it synthesizes 77 studies selected from a broader OpenAlex audit trail of ",
+    "ground_truth_doc_ids": [
+      "10.21203/rs.3.rs-9882260/v1"
+    ]
+  },
+  {
+    "id": "q001",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation'?",
+    "ground_truth": "Kushal Budha, Nikesh Lagun",
+    "ground_truth_doc_ids": [
+      "10.21203/rs.3.rs-9882260/v1"
+    ]
+  },
+  {
+    "id": "q002",
+    "question_type": "date",
+    "question": "When was the paper 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation' published?",
+    "ground_truth": "2026-06-02",
+    "ground_truth_doc_ids": [
+      "10.21203/rs.3.rs-9882260/v1"
+    ]
+  },
+  {
+    "id": "q003",
+    "question_type": "summary",
+    "question": "What is the paper 'Speculative Retrieval-Augmented Generation for Cost-Efficient Large Language Model Inference' about?",
+    "ground_truth": "Abstract - This work focuses on the two crucial bottlenecks in Retrieval-Augmented Generation (RAG): high inference latency and expensive computation cost. RAG enhances the factual correctness of Large Language Models (LLMs) by utilizing external knowledge sources; However, the auto-To achieve a good recall, the system applies a two-way retrieval mechanism: Dense retrieval: This module uses BAAI/bge-small-en-v1.5 to create a 384-dimensional embedding space, where queries and documents are mapped",
+    "ground_truth_doc_ids": [
+      "10.55041/isjem07213"
+    ]
+  },
+  {
+    "id": "q004",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Speculative Retrieval-Augmented Generation for Cost-Efficient Large Language Model Inference'?",
+    "ground_truth": "Dr. Sumalatha P, Manoj Kumar",
+    "ground_truth_doc_ids": [
+      "10.55041/isjem07213"
+    ]
+  },
+  {
+    "id": "q005",
+    "question_type": "date",
+    "question": "When was the paper 'Speculative Retrieval-Augmented Generation for Cost-Efficient Large Language Model Inference' published?",
+    "ground_truth": "2026-05-06",
+    "ground_truth_doc_ids": [
+      "10.55041/isjem07213"
+    ]
+  },
+  {
+    "id": "q006",
+    "question_type": "summary",
+    "question": "What is the paper 'Retrieval-Augmented Large Language Model Agents for Automated Scientific Literature Review Generation' about?",
+    "ground_truth": "This study investigates a method that integrates retrieval-augmented mechanisms into large language model agents for scientific literature review generation. The approach addresses the limitations of traditional review models that rely on parametric knowledge with insufficient timeliness and limited coverage. Incorporating external document retrieval and dynamic information fusion into the generation process enhances the accuracy and completeness of the output. The overall framework consists of ",
+    "ground_truth_doc_ids": [
+      "10.20944/preprints202604.0339.v1"
+    ]
+  },
+  {
+    "id": "q007",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Retrieval-Augmented Large Language Model Agents for Automated Scientific Literature Review Generation'?",
+    "ground_truth": "Ruotong Wang, Nyutian Long, Shunqi Liu, Yuxi Wang, Zhen Qi, Huajun Zhang",
+    "ground_truth_doc_ids": [
+      "10.20944/preprints202604.0339.v1"
+    ]
+  },
+  {
+    "id": "q008",
+    "question_type": "date",
+    "question": "When was the paper 'Retrieval-Augmented Large Language Model Agents for Automated Scientific Literature Review Generation' published?",
+    "ground_truth": "2026-04-06",
+    "ground_truth_doc_ids": [
+      "10.20944/preprints202604.0339.v1"
+    ]
+  },
+  {
+    "id": "q009",
+    "question_type": "summary",
+    "question": "What is the paper 'Hybrid Retrieval-Augmented Generation: Semantic and Structural Integration for Large Language Model Reasoning' about?",
+    "ground_truth": "Recent GraphRAG methods based on knowledge graphs (KGs) primarily rely on either under-reasoning or a structural path-level retriever, which prevents them from jointly capturing fine-grained semantic relevance and explicit multi-hop reasoning paths. This separation often results in semantic mismatch\u2014where logical links are missing\u2014or structural over-constraint in reasoning\u2014 where rigid dependencies limit flexible reasoning\u2014thereby degrading both answer accuracy and the reliability of evidence in",
+    "ground_truth_doc_ids": [
+      "10.3390/app16052244"
+    ]
+  },
+  {
+    "id": "q010",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Hybrid Retrieval-Augmented Generation: Semantic and Structural Integration for Large Language Model Reasoning'?",
+    "ground_truth": "Hyewon Lee, Sungsu Lim",
+    "ground_truth_doc_ids": [
+      "10.3390/app16052244"
+    ]
+  },
+  {
+    "id": "q011",
+    "question_type": "date",
+    "question": "When was the paper 'Hybrid Retrieval-Augmented Generation: Semantic and Structural Integration for Large Language Model Reasoning' published?",
+    "ground_truth": "2026-02-26",
+    "ground_truth_doc_ids": [
+      "10.3390/app16052244"
+    ]
+  },
+  {
+    "id": "q012",
+    "question_type": "summary",
+    "question": "What is the paper 'Empowering farmers with artificial intelligence: a retrieval-augmented generation based large language model advisory framework' about?",
+    "ground_truth": "This study presents a retrieval augmented generation (RAG) based system designed to provide farmers with expert agricultural advisory services. The framework delivers context aware guidance on critical practices such as crop cultivation, pest and disease management, fertilizer application, and other agronomic practices, and compares the performance of four large language models (LLMs) in generating these recommendations. The system processes package of practices (PoP) documents for five major cr",
+    "ground_truth_doc_ids": [
+      "10.4081/jae.2026.1908"
+    ]
+  },
+  {
+    "id": "q013",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Empowering farmers with artificial intelligence: a retrieval-augmented generation based large language model advisory framework'?",
+    "ground_truth": "Shreeram Sawant, Rahul Nair, Siddharth Hariharan",
+    "ground_truth_doc_ids": [
+      "10.4081/jae.2026.1908"
+    ]
+  },
+  {
+    "id": "q014",
+    "question_type": "date",
+    "question": "When was the paper 'Empowering farmers with artificial intelligence: a retrieval-augmented generation based large language model advisory framework' published?",
+    "ground_truth": "2026-01-27",
+    "ground_truth_doc_ids": [
+      "10.4081/jae.2026.1908"
+    ]
+  },
+  {
+    "id": "q015",
+    "question_type": "summary",
+    "question": "What is the paper 'AI-Powered Smart Advisory System for Precision Agriculture Using Large Language Models and Retrieval-Augmented Generation' about?",
+    "ground_truth": "An AI-powered smart advisory system for Precision Agriculture leveraging Large Language Models and Retrieval-Augmented Generation is presented in this paper. The proposed framework generates personalized, contextual, and explainable agricultural recommendations based on farmers' queries as well as soil characteristics, weather conditions, crop information and agricultural domain-specific knowledge. A retrieval augmented generation approach is employed to gather the relevant agricultural informat",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6761739"
+    ]
+  },
+  {
+    "id": "q016",
+    "question_type": "authors",
+    "question": "Who authored the paper 'AI-Powered Smart Advisory System for Precision Agriculture Using Large Language Models and Retrieval-Augmented Generation'?",
+    "ground_truth": "Jahnavi Bellapukonda",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6761739"
+    ]
+  },
+  {
+    "id": "q017",
+    "question_type": "date",
+    "question": "When was the paper 'AI-Powered Smart Advisory System for Precision Agriculture Using Large Language Models and Retrieval-Augmented Generation' published?",
+    "ground_truth": "2026-01-01",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6761739"
+    ]
+  },
+  {
+    "id": "q018",
+    "question_type": "summary",
+    "question": "What is the paper 'A Survey of Agentic GraphRAG: From Retrieval-augmented Generation to Graph-native Agents' about?",
+    "ground_truth": "&lt;div&gt; This survey provides a comprehensive analysis of Agentic GraphRAG, an emerging paradigm that integrates Graph-based Retrieval-Augmented Generation (RAG) with Agentic RAG.&amp;nbsp;&lt;span&gt;While large language models know a lot, their knowledge is frozen at training time and they often suffer from hallucinations. RAG is the standard workaround: before the model answers, fetch relevant text from an external corpus and generate response based on the it. Two lines of work have pushed",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6713979"
+    ]
+  },
+  {
+    "id": "q019",
+    "question_type": "authors",
+    "question": "Who authored the paper 'A Survey of Agentic GraphRAG: From Retrieval-augmented Generation to Graph-native Agents'?",
+    "ground_truth": "Zihan Chen, Lei Zheng, Di Zhu",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6713979"
+    ]
+  },
+  {
+    "id": "q020",
+    "question_type": "date",
+    "question": "When was the paper 'A Survey of Agentic GraphRAG: From Retrieval-augmented Generation to Graph-native Agents' published?",
+    "ground_truth": "2026-01-01",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6713979"
+    ]
+  },
+  {
+    "id": "q021",
+    "question_type": "summary",
+    "question": "What is the paper 'Industrial Multi-AI Agent Collaborative System based on Large-Small Model Fusion and Retrieval-Augmented Generation' about?",
+    "ground_truth": "With the rapid advancement of intelligent manufacturing, industrial systems generate vast amounts of unstructured data, yet face significant challenges in data utilization, knowledge retrieval accuracy, decision-making efficiency, and human-machine collaboration. To address these issues, this paper proposes a large-small model fusion and retrieval-augmented generation based industrial multi-AI agent collaborative system (IMACS). First, a RAG-driven data governance pipeline is introduced, featuri",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6756498"
+    ]
+  },
+  {
+    "id": "q022",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Industrial Multi-AI Agent Collaborative System based on Large-Small Model Fusion and Retrieval-Augmented Generation'?",
+    "ground_truth": "Xiao Lai, Han Wang, Min Liu, Li Bai",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6756498"
+    ]
+  },
+  {
+    "id": "q023",
+    "question_type": "date",
+    "question": "When was the paper 'Industrial Multi-AI Agent Collaborative System based on Large-Small Model Fusion and Retrieval-Augmented Generation' published?",
+    "ground_truth": "2026-01-01",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6756498"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "operations": [
+    {
+      "op": "drop_latest_records",
+      "rows_dropped": 3
+    },
+    {
+      "op": "blank_summary",
+      "rows_affected": 3
+    },
+    {
+      "op": "inject_noise",
+      "rows_affected": 2
+    },
+    {
+      "op": "truncate_title",
+      "rows_affected": 2
+    },
+    {
+      "op": "stale_published_date",
+      "rows_affected": 2
+    },
+    {
+      "op": "add_duplicates",
+      "rows_added": 1
+    }
+  ],
+  "rows_before": 24,
+  "rows_after": 22
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the most recent paper about RAG?",
+    "answer": "Large Language Models (LLMs) that rely solely on parametric memory learned through training have demonstrated strong performance in biomedical question-answering, but their tendency to hallucinate facts and the difficulty of adjusting and adding to the learned knowledge limit their usefulness in clinical settings.",
+    "retrieved_titles": [
+      "The Role of Retrieval-Augmented Generation in Improving Factual Accuracy for Medical Large Language Models",
+      "Hallucination in Large Language Models and Retrieval-Augmented Generation: Mechanisms, Mitigation, and Evaluation",
+      "A Survey of Agentic GraphRAG: From Retrieval-augmented Generation to Graph-native Agents",
+      "Retrieval-Augmented Generation With Large Language Models"
+    ]
+  },
+  {
+    "question": "Who are the authors of the first paper in the corpus?",
+    "answer": "This study investigates a method that integrates retrieval-augmented mechanisms into large language model agents for scientific literature review generation.",
+    "retrieved_titles": [
+      "Retrieval-Augmented Large Language Model Agents for Automated Scientific Literature Review Generation",
+      "Hybrid Graph Neural Network and Large Language Model Framework for Robust Knowledge Graph Question Answering via Retrieval-Augmented Generation",
+      "Mitigating Threats to Large Language Model and Retrieval-Augmented Generation Systems",
+      "Hallucination in Large Language Models and Retrieval-Augmented Generation: Mechanisms, Mitigation, and Evaluation"
+    ]
+  }
+]
